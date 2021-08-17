@@ -1,0 +1,12 @@
+body {
+    padding-top: 0;
+}
+
+.navbar {
+    display: none;
+}
+
+main {
+    padding-top: 0;
+    max-width: 70%;
+}
