@@ -8,7 +8,7 @@ googleAnalytics = ""
     author = "Monster Show"
     copyright  = "&copy; Monster Show. Todos los derechos reservados"
     favicon = "static/images/favicon.png"
-    description = "Monster Show"
+    description = "Esta marca está en venta"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
@@ -20,5 +20,5 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/monstershow"
-    name = "Home"
+    name = "En Venta"
     weight = 1
